@@ -8,6 +8,12 @@
 
 ---
 
+## 📸 Screenshot
+
+![ZeroDayForge Demo](assets/banner-preview.png)
+
+---
+
 ## 🚀 Capabilities
 
 - 🎯 **Protocol Fuzzing** (SMBv1, RDP, DNS)
