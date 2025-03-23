@@ -1,0 +1,9 @@
+argparse
+capstone
+impacket
+keystone-engine
+psutil
+pycryptodomex
+pyrdp
+pyfiglet
+termcolor

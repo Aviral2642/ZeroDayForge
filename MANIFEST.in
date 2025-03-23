@@ -1,0 +1,15 @@
+# Include JSON configuration files for protocol exploits
+include zerodayforge/protocols/config/smb_patterns.json
+
+# Include all shell scripts from scripts directory
+recursive-include zerodayforge/scripts *.sh
+
+# Include example payload generators and PowerShell generators
+recursive-include zerodayforge/examples *.py
+
+# Include any shellcode templates or text files (if added later)
+recursive-include zerodayforge/payloads *.txt
+
+# Include LICENSE and README files if present
+include LICENSE
+include README.md

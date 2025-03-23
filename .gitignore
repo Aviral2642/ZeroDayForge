@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# macOS system files
+.DS_Store
+
+# Secrets (if any get added later)
+*.pem
+*.key
+
+# Logs and temp data
+*.log
+*.tmp
+*.swp
+
+# Crash dump files
+crash_*.pkl
+poc_*.py
+smb_response_*.bin
+
+# Generated payloads
+*.bin
+*.ps1
+*.cs
+*.raw
+
+# Editor junk
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project

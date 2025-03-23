@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Windows 7/Server 2008 R2",
+		"signature": "Windows (7|2008 R2)",
+		"offset": 124
+	},
+	{
+		"name": "Windows 10/Server 2016",
+		"signature": "Windows (10|2016)",
+		"offset": 144
+	},
+	{
+		"name": "Samba <4.4.0",
+		"signature": "Samba (3|4\\.[0-3])",
+		"offset": 112
+	}
+]
