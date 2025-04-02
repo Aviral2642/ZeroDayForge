@@ -30,7 +30,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/zerodayforge.git
+git clone https://github.com/Aviral2642/ZeroDayForge.git
 cd zerodayforge
 python3 -m venv venv
 source venv/bin/activate
