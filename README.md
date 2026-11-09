@@ -1,6 +1,8 @@
 # ⚔️ ZeroDayForge
 
-![ZDF Banner](https://img.shields.io/badge/status-stable-brightgreen?style=flat-square)
+> **Maintenance status:** Historical research code from 2025. The examples have not been revalidated against current platforms or dependencies. Current vulnerability research is published in [AI Infrastructure Security](https://github.com/Aviral2642/ai-infra-security); see the [public profile](https://github.com/Aviral2642) for recent work.
+
+![ZDF Banner](https://img.shields.io/badge/status-research_snapshot-yellow?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows/Linux-ff69b4?style=flat-square)
 
@@ -31,7 +33,7 @@
 
 ```bash
 git clone https://github.com/Aviral2642/ZeroDayForge.git
-cd zerodayforge
+cd ZeroDayForge
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
